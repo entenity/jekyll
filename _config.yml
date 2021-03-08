@@ -7,7 +7,7 @@
 
 # Site settings
 title: 陈龙的学习技术专栏
-brief-intro: 一个即将迈入老年的Web开发者
+brief-intro: 一个即将迈入老年的Web开发者了
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://entenity.github.io" # the base hostname & protocol for your site
 
